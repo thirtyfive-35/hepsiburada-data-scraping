@@ -9,7 +9,7 @@ from data_scraping import HepsiburadaDataExtractor
 
 from data_scraping import toCsv
 
-step 1:
+# step 1:
 
 # data link scraping
 base_url = "https://www.hepsiburada.com"
