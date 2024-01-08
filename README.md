@@ -4,7 +4,9 @@ you can  do web scraping for hepsiburada
 firstly clone this repo after than
 
 from hepsiburada_link_scraping import hepsiburada_data_extraction
+
 from data_scraping import HepsiburadaDataExtractor
+
 from data_scraping import toCsv
 
 step 1:
